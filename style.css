@@ -1,0 +1,33 @@
+header ul {
+    background-color: black;
+    color: white;
+    list-style-type: none;
+    padding: 20px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.container {
+    margin-bottom: 10px;
+}
+
+p {
+    text-align: justify;
+    column-count: 4;
+    column-rule: 3px solid black;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+}
